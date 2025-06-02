@@ -1,0 +1,8 @@
+Instrucciones de uso:
+1- Abre IntelliJ IDEA y ejecuta Main.java en Tarea2.frontend.
+2- Al iniciar, se abrirá una ventana para cargar un archivo .csv con preguntas.
+3- El archivo debe tener columnas: tipo,enunciado,opciones,respuesta,nivel,tiempo. Usa comillas si hay múltiples opciones.
+ejemplo:
+¿Cuál es el objetivo de la taxonomía de Bloom?,Clasificar objetivos,Evaluar memoria,Enseñar,Distribuir tareas,"Clasificar objetivos",Recordar,30
+
+4.Al cargar, muestra total de preguntas y tiempo. Puedes responder y ver un resumen de las respuestas final por nivel y tipo.
